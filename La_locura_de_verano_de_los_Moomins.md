@@ -2,6 +2,9 @@
 #La locura de verano de los Moomins
 
 
+Liberado bajo licencia [aglp v3](LICENSE.txt)
+
+
 ##Contenido
 
 
