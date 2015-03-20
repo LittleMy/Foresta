@@ -104,7 +104,7 @@ Acerca del castigo y la recompensa
 
 
 
-CAPITULO 1
+#CAPITULO 1
 
 Acerca de un barco y un volcán
 
@@ -564,9 +564,9 @@ Tenía una terrible curiosidad de ver lo que había sucedido afuera.
 
 
 
-CAPITULO 2
+#CAPITULO 2
 
-Acerca de bucear por el desayuno
+##Acerca de bucear por el desayuno
 
 
 
@@ -830,9 +830,9 @@ exclamó: 'Qué gran suerte que nos gusta nadar mucho en nuestra familia!'
 
 
 
-CAPITULO 3
+#CAPITULO 3
 
-Acerca de aprender a vivir en una casa encantada.
+##Acerca de aprender a vivir en una casa encantada.
 
 
 
@@ -1274,11 +1274,9 @@ luna y la noche y toda la tristeza que hay...'
 
 
 
-CAPITULO 4
+#CAPITULO 4
 
-Acerca de la vanidad y de los peligros de dormir en los árboles.
-
-
+##Acerca de la vanidad y de los peligros de dormir en los árboles.
 
 
 Unos pocos días pasaron.
@@ -1708,9 +1706,9 @@ bosque.
 
 
 
-CAPITULO 5
+#CAPITULO 5
 
-Acerca de las consecuencias de silbar en el escenario
+##Acerca de las consecuencias de silbar en el escenario
 
 
 
@@ -1959,9 +1957,9 @@ escenario!'
 
 
 
-CAPITULO 6
+#CAPITULO 6
 
-Acerca de la revancha del Guardaparques
+##Acerca de la revancha del Guardaparques
 
 
 
@@ -2293,9 +2291,9 @@ tuvieran hambre, tuvieran los pies mojados, o un dolor de estómago.
 
 
 
-CAPITULO 7
+#CAPITULO 7
 
-Acerca de los peligros de la Noche de Verano.
+##Acerca de los peligros de la Noche de Verano.
 
 
 
@@ -2587,9 +2585,9 @@ pronunciar ni una palabra.
 
 
 
-CAPITULO 8
+#CAPITULO 8
 
-Acerca de cómo escribir una obra.
+##Acerca de cómo escribir una obra.
 
 
 
@@ -2850,9 +2848,9 @@ Emma sentía que sus viejas piernas volvían a la vida. Ella no podía
 pensar en otra cosa que el ensayo general.
 
 
-CAPITULO 9
+#CAPITULO 9
 
-Acerca de un padre infeliz.
+##Acerca de un padre infeliz.
 
 
 
@@ -2997,9 +2995,9 @@ público.
 
 
 
-CAPITULO 10
+#CAPITULO 10
 
-Acerca del ensayo general.
+##Acerca del ensayo general.
 
 
 
@@ -3264,9 +3262,9 @@ Siempre, siempre me sentiré feliz después de esto!”
 
 
 
-CAPITULO 11
+#CAPITULO 11
 
-Acerca de engañar a los carceleros.
+##Acerca de engañar a los carceleros.
 
 
 
@@ -3477,9 +3475,9 @@ quizas yo debería ir con ustedes y explicarle todo a mi primo.”
 
 
 
-CAPITULO 12
+#CAPITULO 12
 
-Acerca de un dramático estreno.
+##Acerca de un dramático estreno.
 
 
 
@@ -3827,9 +3825,9 @@ lecho de rosas.”
 
 \* Otra vez! (Autora)
 
-CAPITULO 13
+#CAPITULO 13
 
-Acerca del castigo y la recompensa
+##Acerca del castigo y la recompensa
 
 
 
