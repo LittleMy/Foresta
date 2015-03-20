@@ -1,246 +1,114 @@
-\
 
-**La locura de verano de los Moomins**
+#La locura de verano de los Moomins
 
-\
 
-\
+##Contenido
 
-\
 
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-**Contenido**
-
-\
-
-CAPITULO 1
+**CAPITULO 1**
 
 Acerca de un barco y un volcán
 
-\
 
-CAPITULO 2
+**CAPITULO 2**
 
 Acerca de bucear por el desayuno
 
-\
 
-CAPITULO 3
+**CAPITULO 3**
 
 Acerca de aprender a vivir en una casa encantada
 
-\
 
-CAPITULO 4
+**CAPITULO 4**
 
 Acerca de la vanidad y de los peligros de dormir en los árboles
 
-\
 
-CAPITULO 5
+**CAPITULO 5**
 
 Acerca de las consecuencias de silbar en el escenario
 
-\
 
-CAPITULO 6
+**CAPITULO 6**
 
 Acerca de la revancha del Guardaparques
 
-\
 
-CAPITULO 7
+**CAPITULO 7**
 
 Acerca de los peligros de la Noche de Verano
 
-\
 
-CAPITULO 8
+**CAPITULO 8**
 
 Acerca de cómo escribir una obra
 
-\
 
-CAPITULO 9
+**CAPITULO 9**
 
 Acerca de un padre infeliz
 
-\
 
-CAPITULO 10
+**CAPITULO 10**
 
 Acerca del ensayo general
 
-\
 
-CAPITULO 11
+**CAPITULO 11**
 
 Acerca de engañar a los carceleros
 
-\
 
-CAPITULO 12
+**CAPITULO 12**
 
 Acerca de un dramático estreno
 
-\
 
-CAPITULO 13
+**CAPITULO 13**
 
 Acerca del castigo y la recompensa
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
 CAPITULO 1
 
 Acerca de un barco y un volcán
 
-\
 
-\
 
 Mamá Moomin estaba sentada en los escalones del frente al sol, con un
 barco hecho de corteza en las manos.
@@ -324,13 +192,10 @@ su nariz.
 
 Luego fue a buscar a Moomintroll.
 
-\
 
-\
 
 \*
 
-\
 
 Bajo la pendiente, un poco a la derecha de la hamaca del árbol de Papá
 Moomin, había un amplio estanque de clara y marrón agua. La hija de
@@ -398,15 +263,11 @@ Maiden. Buena idea, no?'
 'Espléndida', dijo su madre. 'Guardaremos siempre nuestros brazaletes en
 el agua en el futuro. Son mucho más hermosos de esta forma'.
 
-\
 
-\
 
 \*
 
-\
 
-\
 
 En los escalores del frente de la casa de los Moomins se encontraba
 parada la hija de Mymble, y casi rompiendo su voz a gritos. Pequeña Mía
@@ -531,11 +392,9 @@ el de ella y dijo: ' No hay necesidad de imaginar que eres una
 maravillosa belleza, porque eso es lo que eres. Quizás mañana voy a
 tener ganas de jugar al secuestro por ejemplo.'
 
-\
 
 \*
 
-\
 
 El día de junio pasó, el polvo fue cayendo, pero el clima se mantuvo
 igual de cálido.
@@ -691,41 +550,25 @@ apagar la vela, Papá Moomin puso la alarma del reloj a las siete.
 
 Tenía una terrible curiosidad de ver lo que había sucedido afuera.
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
 CAPITULO 2
 
 Acerca de bucear por el desayuno
 
-\
 
-\
 
 Finalmente la luz del día volvió a brillar otra vez.
 
@@ -782,15 +625,11 @@ taladro y una pequeña sierra. Papá Moomin se encontró aserrando su
 propio piso un poco espantado, pero al mismo tiempo sumamente
 satisfecho.
 
-\
 
-\
 
 \*
 
-\
 
-\
 
 Unos minutos después Mamá Moomin por primera vez vio su cocina desde el
 techo. Maravillada, miraba abajo a una tenue luz, la luz del acuario.
@@ -842,13 +681,10 @@ zambullida agua en toda la habitación.
 sabe, quizás nunca vuelva a lavar platos. Pero por favor, podemos
 intentar salvar el salón antes de que se eche a perder?'
 
-\
 
-\
 
 \*
 
-\
 
 Afuera el Sol siguió calentando y el pesado océano había desaparecido.
 
@@ -990,21 +826,15 @@ De repente toda una rompiente empapó la alfombra.
 La hija de Mymble rápidamente metió a su hermana en el bolsillo y
 exclamó: 'Qué gran suerte que nos gusta nadar mucho en nuestra familia!'
 
-\
 
-\
 
-\
 
-\
 
 CAPITULO 3
 
 Acerca de aprender a vivir en una casa encantada.
 
-\
 
-\
 
 Mamá Moomin estaba sentada en el techo con su bolso de mano, su canasta
 de costura, la lata de café, y el álbum de fotos familiar en su regazo.
@@ -1111,15 +941,11 @@ Moomins. Cuando llegaron al primer pasaje a la montañas Solitarias
 todavía podían ver la bandera ondeando una feliz despedida sobre el
 agua.
 
-\
 
-\
 
 \*
 
-\
 
-\
 
 Mamá Moomin había puesto la mesa para cenar en su nuevo hogar. La mesa
 lucía un poco solitaria en el medio de la habitación grande y
@@ -1373,9 +1199,7 @@ no les concierne a ellos en lo más mínimo.'
 El borde superior del disco solar desapareció en el agua. Y en el mismo
 momento todo el salón se encendió espléndidamente.
 
-\
 
-\
 
 (\* Los Moomins se agradecen unos a otros no solo por el té sino después
 de cada comida que comparten juntos. A ellos les gusta sentirse amables.
@@ -1395,15 +1219,11 @@ retirarme ahora.'
 Pero antes Mamá Moomin corrió su colcha fuera de su hocico y recordó
 decir: 'Pero por favor despiértenme si sucede algo nuevo!'
 
-\
 
-\
 
 \*
 
-\
 
-\
 
 Más tarde en la noche Misabel fue a dar un solitario paseo por el mar.
 Ella vio a la luna salir y comenzar su solitario viaje a través de la
@@ -1426,71 +1246,40 @@ luna y la noche y toda la tristeza que hay...'
 
 'Oh sí', dijo Whomper.
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
 CAPITULO 4
 
 Acerca de la vanidad y de los peligros de dormir en los árboles.
 
-\
 
-\
 
-\
 
 Unos pocos días pasaron.
 
@@ -1518,15 +1307,11 @@ siempre cuidadosamente vacío.
 
 'Es alquien que está esperando', decía la hija de Mymble.
 
-\
 
-\
 
 \*
 
-\
 
-\
 
 Una mañana Misabel, la hija de Mymble, y Sonork Maiden estaban
 peinándose sus cabellos.
@@ -1574,13 +1359,10 @@ mirado...'
 Ella estaba tan asustada que al principio ni se atrevía a dar un paso.
 Ella sólo podía mirar, fascinada, a los bucles dorados, negros, rojos...
 
-\
 
-\
 
 \*
 
-\
 
 Mientras tanto Snork Maiden se sentía muy apenada en el salón.
 
@@ -1657,15 +1439,11 @@ y volvió en sí por unos minutos.
 'Cálmate', ella susurró. 'Debo calmarme un poco. O reventaré en
 felicidad. Hay un montón de ellos...'
 
-\
 
-\
 
-\
 
 \*
 
-\
 
 Un poco antes de la cena Misabel estaba de vuelta en el salón, sentada
 debatiéndose a sí misma en un rincón.
@@ -1783,17 +1561,12 @@ escoba y comenzó a barrer el piso.
 
 'No sé', replicó Papá Moomin. ' Pero luce como si uno debería saberlo.'
 
-\
 
-\
 
-\
 
 \*
 
-\
 
-\
 
 En la tarde un fuerte perfume de flores de serbal se deslizó en el
 salón. Llegaron pájaros para cazar las arañas del techo, y Pequeña Mía
@@ -1848,9 +1621,7 @@ siquiera saben eso.' Murmurando y sacudiendo su escoba se deslizó en las
 sombras. Los Moomins miraron hacia ella un poco incómodos. Luego
 olvidaron todo.
 
-\
 
-\
 
 \*
 
@@ -1876,15 +1647,11 @@ sentó en el rincón a llorar.
 'Por qué siempre es así?' pensó ella. 'Qué hace todo tan triste y
 dificultoso?'
 
-\
 
-\
 
 \*
 
-\
 
-\
 
 Mamá Moomin permaneció acostada pero despierta por un largo rato esa
 noche.
@@ -1906,13 +1673,10 @@ dormir.
 Mamá Moomin se quedó mirando el bosque por un rato. Pero poco a poco se
 durmió y la noche cayó sobre el salón.
 
-\
 
 \*
 
-\
 
-\
 
 Una hora pasó.
 
@@ -1930,43 +1694,26 @@ tintineante arco de rojas y azules lámparas brilló entre los árboles.
 Luego éste desapareció, y sólo la grisácea luz de la luna iluminó el
 bosque.
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
 CAPITULO 5
 
 Acerca de las consecuencias de silbar en el escenario
 
-\
 
-\
 
-\
 
 Snork Maiden se despertó temblando de frío. Su flequillo se sentía
 bastante húmedo. Largas cortinas de niebla navegaban a la deriva entre
@@ -2022,19 +1769,13 @@ Y de repente Moomintroll sintió que la situación no era tan peligrosa.
 'Treparemos más adelante en el bosque. Y por favor peina tu flequillo un
 poco, porque me gusta verte bonita!'
 
-\
 
-\
 
-\
 
 \*
 
-\
 
-\
 
-\
 
 Moomintroll y Snork Maiden pasaron el día entero trepando de árbol en
 árbol. La noche había casi llegado cuando vieron la primera verde hierba
@@ -2047,7 +1788,6 @@ cloqueaban en la silenciosa y tranquila noche, y enjambres de mosquitos
 danzaban entre los espesos pinos. (Felizmente los mosquitos no pueden
 picar a través del pelaje de los Moomis.)
 
-\
 
 Moomintroll se tendió sobre la hierba. Se sentía mareado de mirar hacia
 abajo en la arremolinada y turbulenta agua por tanto tiempo.
@@ -2104,17 +1844,12 @@ En la bruma, o en la casa, una pequeña campana estaba sonando. Luego
 todo se volvió silencioso- luego el tintineo volvió otra vez. Pero no
 había humo en la chimenea, y las ventanas estaban oscuras.
 
-\
 
-\
 
-\
 
 \*
 
-\
 
-\
 
 Mientras todo esto ocurría, la mañana a bordo de la casa flotante había
 sido la más miserable. Mamá Moomin reusó comer. Ella se sentó en la
@@ -2169,15 +1904,11 @@ villanos!'
 Ella pasó todo el día acostada allí buscando villanos, pero
 desafortunadamente, no encontró ninguno.
 
-\
 
-\
 
 \*
 
-\
 
-\
 
 Nadie le reprochó a Whomper después de todo.
 
@@ -2218,35 +1949,22 @@ Emma.
 'Ja, ja!' ella rió. 'Ahí lo tienen! Esto les enseñará a no silbar en el
 escenario!'
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
 CAPITULO 6
 
 Acerca de la revancha del Guardaparques
 
-\
 
-\
 
-\
 
 Si Pequeña Mía hubiera sido solo un poco más grande, quién sabe quizás
 no hubiera caído al agua. Ahora ella se balanceaba como una burbuja a
@@ -2349,9 +2067,7 @@ Pequeña Mía despertó de una vez y sacó su cabeza.
 'Yo la conozco', ella gritó. Y luego cantó con su estridente voz de
 mosquito:
 
-\
 
-\
 
 Todas las pequeñas bestias tienen moños en sus colas
 
@@ -2367,9 +2083,7 @@ Despacio, oh, despacio una celestial noche
 
 Se desvanece como el eco de una voz!
 
-\
 
-\
 
 'Dónde pudiste haber oído tú esa canción?' Snufkin preguntó algo
 sorprendido. 'Tú la cantaste casi perfecta. Eres una niña extraña.'
@@ -2398,11 +2112,9 @@ Ella se acurrucó felizmente en su lana de angora otra vez, y Snufkin
 continuó su camino. Él había arribado a un largo vallado. Éste tenía
 colgados carteles de advertencias en intervalos regulares:
 
-\
 
 PROHIBIDO EL INGRESO
 
-\
 
 El Guardaparques y la Celadora del parque vivían juntos, en el parque,
 por supuesto. Ellos habían cortado y esquilado cada uno de los árboles
@@ -2424,15 +2136,11 @@ Ni el Guardaparques ni la Celadora del parque podían entender esto.
 Ellos se sentaban a mirar a los vástagos, uno de cada lado de la caja de
 arena. Qué podían hacer los niños pequeños?
 
-\
 
-\
 
 \*
 
-\
 
-\
 
 A este parque llegó Snufkin con Pequeña Mía en su bolsillo. Él se
 deslizó silenciosamente a lo largo del vallado, buscando a su viejo
@@ -2521,39 +2229,31 @@ Toda su vida Snufkin había deseado sacar los carteles que le pedían no
 hacer cosas que a él le gustaban, y ahora él casi temblaba de la emoción
 y la expectativa. Comenzó con:
 
-\
 
 NO FUMAR
 
-\
 
 Luego descolgó:
 
-\
 
 NO SENTARSE EN EL CÉSPED
 
-\
 
 Después de eso se volvió hacia:
 
-\
 
 REIR Y SILBAR
 
 ESTRICTAMENTE PROHIBIDO
 
-\
 
 y el siguiente minuto:
 
-\
 
 NO REBOTAR, NO BRINCAR
 
 Y DEFINITIVAMENTE NO SALTAR
 
-\
 
 siguieron el ejemplo.
 
@@ -2588,25 +2288,17 @@ Y con veinticuatro serios pequeños niños en sus talones Snufkin vagó a
 través de los prados, desolado, preguntándose qué haría cuando ellos
 tuvieran hambre, tuvieran los pies mojados, o un dolor de estómago.
 
-\
 
-\
 
-\
 
-\
 
-\
 
 CAPITULO 7
 
 Acerca de los peligros de la Noche de Verano.
 
-\
 
-\
 
-\
 
 A las diez y media en la víspera de Verano, en el momento en que Snufkin
 estaba ocupado construyendo una cabaña con ramas de abeto para sus
@@ -2711,13 +2403,10 @@ alivio! Ahora nosotros celebraremos la primera noche de verano feliz que
 he tenido, y cómo vamos a celebrar! Por favor, por favor hagamos algo
 realmente emocionante.”
 
-\
 
-\
 
 \*
 
-\
 
 Y esa noche de Verano iba a ser más emocionante de lo que la Fillyjonk
 podía esperar.
@@ -2757,13 +2446,10 @@ dijo ella, “aquí hay un montón de carteles que alguien arrojó!”
 Vamos a construir nuestra hoguera de carteles! Y danzar alrededor hasta
 que se hayan convertido en cenizas!”
 
-\
 
-\
 
 \*
 
-\
 
 Su fogata de Verano ardía brillantemente. Con felices crujidos se
 consumía el montón de inservibles advertencias. “No cantar en las
@@ -2820,13 +2506,10 @@ dentro del agua, verás a la persona con quien vas a casarte!”
 fantasma! Pero primero debes juntar nueve flores de diferentes clases.
 Uno, dos, tres, y ahora si dices una palabra nunca te casarás!”
 
-\
 
-\
 
 \*
 
-\
 
 Mientras la fogata moría lentamente en un resplandor y la brisa perezosa
 de la mañana flotaba sobre el césped, la Snork Maiden y la Fillyjonk
@@ -2880,61 +2563,35 @@ quemado! Niéguenlo si pueden!”
 Pero, por supuesto, ellos no podían. Ellos habían prometido no
 pronunciar ni una palabra.
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
 CAPITULO 8
 
 Acerca de cómo escribir una obra.
 
-\
 
-\
 
 Solo imagina si Mamá Moomin hubiera sabido que Moomintroll estaba en
 prisión cuando ella despertó en el Día de Verano! Y si alguno hubiera
@@ -3110,13 +2767,10 @@ tiempo.”
 
 Así que Emma se sentó y comenzó a contarles más acerca del teatro.
 
-\
 
-\
 
 \*
 
-\
 
 Por la tarde Papá Moomin había terminado su obra y procedió a leérsela a
 los demás. Nadie lo interrumpió y cuando él había terminado reinaba un
@@ -3195,17 +2849,13 @@ Dormir fue difícil para todos esa noche.
 Emma sentía que sus viejas piernas volvían a la vida. Ella no podía
 pensar en otra cosa que el ensayo general.
 
-\
 
 CAPITULO 9
 
 Acerca de un padre infeliz.
 
-\
 
-\
 
-\
 
 En la mañana del día en que Papá Moomin escribía su obra, y Moomintroll
 era encarcelado, Snufkin era despertado por un chorro de lluvia que se
@@ -3280,15 +2930,11 @@ y les mostraré algo!”
 
 “Algo...” dijo Snufkin inciertamente moviendo sus manos.
 
-\
 
-\
 
 \*
 
-\
 
-\
 
 Ellos caminaron y caminaron .
 
@@ -3345,25 +2991,17 @@ Pero la Fillyjonk estaba, como sabemos, bastante desprevenida de qué
 tenía húespedes, pues ella aún estaba en la cárcel por alterar el orden
 público.
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
 CAPITULO 10
 
 Acerca del ensayo general.
 
-\
 
-\
 
 Era el día del ensayo general de la obra de Papá Moomin, y todos los
 focos estaban encendidos, aunque era todavía solo la tarde.
@@ -3463,7 +3101,6 @@ de papel alrededor de su rodete.
 Ella estudió a la audiencia con gran interés por un tiempo antes de
 hablar, rápida y casualmente:
 
-\
 
 Si yo debo morir esta noche, en radiante juventud,
 
@@ -3477,21 +3114,17 @@ Un pimpollo, ruborizado aún por el sueño infantil,
 
 Yo (?) a la tierra mi inexorable Destino!
 
-\
 
 Detrás de la escena se oyó un canto agudo. Era Emma:
 
-\
 
 Oh noche, oh noche, oh noche, oh noche de Destino!
 
-\
 
 Papá Moomin entró desde la izquierda con un manto descuidadamente puesto
 sobre sus hombros, giró hacia la audiencia, y recitó en una voz
 temblorosa:
 
-\
 
 Los lazos de la Familia y la Amistad deben
 
@@ -3501,17 +3134,14 @@ Alas, será entonces mi corona levantada
 
 por la hermana de la sobrina de mi hija?
 
-\
 
 Él sintió que había algo mal en sus palabras , y resumió:
 
-\
 
 Alas, será entonces mi corona arrebatada
 
 por la hija política de la hija de mi hermana?
 
-\
 
 Mamá Moomin susurró: “Por la hija del hijo de la hermana de mi hija!”
 
@@ -3520,7 +3150,6 @@ Mamá Moomin susurró: “Por la hija del hijo de la hermana de mi hija!”
 Él dio un paso hacia la hija de Mymble, quien se había escondido detrás
 del gabinete, y continuó:
 
-\
 
 Entonces tiembla, traidora Mymble, tiembla ahora
 
@@ -3530,7 +3159,6 @@ Como hambriento él camina en su jaula
 
 Ululando ala luna!
 
-\
 
 Un largo silencio siguió.
 
@@ -3566,13 +3194,11 @@ click cuando Whomper encendió la máquina de viento detrás de escena.
 
 Misabel comenzó su primer gran monólogo:
 
-\
 
 Oh felicidad y dicha cuando te vea
 
 decapitado a mi propia petición...
 
-\
 
 Ella dio un paso rápido, se tropezó con la cola de terciopelo y cayó
 sobre los focos, directo sobre el más cercano bote de puerco espines.
@@ -3594,13 +3220,11 @@ de una vez, por favor.”
 Mamá Moomin miró incómoda su falda y apareció en el escenario con una
 amigable, tímda y ligera sonrisa.
 
-\
 
 Ahora esconde tu rostro, traigo noticias!
 
 Tu hijo te ha dicho un gran paquete de mentiras!
 
-\
 
 ella dijo felizmente.
 
@@ -3635,23 +3259,16 @@ excitado corazón.
 “Ellos aplaudieron!” ella susurró a sí misma. 'Oh, qué feliz soy!
 Siempre, siempre me sentiré feliz después de esto!”
 
-\
 
-\
 
-\
 
-\
 
-\
 
 CAPITULO 11
 
 Acerca de engañar a los carceleros.
 
-\
 
-\
 
 En la mañana siguiente fueron enviados los programas. Todo tipo de aves
 volaron a través de la ensenada arrojándolos. Los programas (escritos y
@@ -3674,7 +3291,6 @@ no tomara riesgos ahora.
 El Hemulen se puso sus anteojos y leyó el programa en voz alta para sí
 mismo:
 
-\
 
 Estreno!!
 
@@ -3700,9 +3316,7 @@ en el medio de la ensenada de los pinos. Botes para alquilar de
 
 los Hemules.
 
-\
 
-\
 
 “Una obra?” dijo el Hemulen pensativamente y se sacó sus anteojos otra
 vez. Profundo en su corazón se agitó un débil, inhemúlico recuerdo de su
@@ -3860,21 +3474,15 @@ terriblemente a mi primo!”, ella dijo.
 Hemulen, aliviada. “Entonces por supuesto que deben ir a casa. Pero
 quizas yo debería ir con ustedes y explicarle todo a mi primo.”
 
-\
 
-\
 
-\
 
 CAPITULO 12
 
 Acerca de un dramático estreno.
 
-\
 
-\
 
-\
 
 Mientras la pequeña Hemulen entretenía a sus huéspedes del té, más y más
 programas de la obra volaron sobre el bosque. Uno de ellos flotó hacia
@@ -3940,15 +3548,11 @@ Ellos no tenían ninguno.
 'Bueno”, dijo Snufkin. 'Tendrán que soplar sus narices en sus propias
 enaguas. O lo que sea que tengan.”
 
-\
 
-\
 
-\
 
 \*
 
-\
 
 El sol estaba casi en el horizonte cuando Snufkin había terminado con
 todos los pantalones y vestidos. Por supuesto que había una cierta
@@ -4218,11 +3822,8 @@ Todo se volvió silencio de repente a bordo del teatro.
 empapada Fillyjonk. “Pero no imagines que el escenario es siempre un
 lecho de rosas.”
 
-\
 
-\
 
-\
 
 \* Otra vez! (Autora)
 
@@ -4230,11 +3831,8 @@ CAPITULO 13
 
 Acerca del castigo y la recompensa
 
-\
 
-\
 
-\
 
 Snufkin continuó remando en silencio por un largo rato. Moomintroll se
 sentó mirando al bien conocido y reconfortante perfil de su viejo
@@ -4285,13 +3883,10 @@ luna.
 
 Snufkin rió silenciosamente y comenzó a llenar su pipa.
 
-\
 
-\
 
 \*
 
-\
 
 El agua se estaba yendo al fin. Recién bañadas orillas y valles estaban
 lentamente saliendo al sol otra vez. Los árboles fueron los primeros en
@@ -4311,13 +3906,10 @@ Posiblemente algunos de ellos habían encontrado nuevos y mucho más
 lindos lugares durante el tiempo que el valle se había transformado en
 un lago, pero aún así ellos preferían sus viejos lugares.
 
-\
 
-\
 
 \*
 
-\
 
 Mientra Mamá Moomin se sentaba al lado de su hijo en la popa del bote de
 Snufkin con su bolso de mano en el regazo, ello no pensaba en el juego
@@ -4484,13 +4076,10 @@ su dirección?”
 
 “Valle de los Moomins es suficiente”, dijo Papá Moomin.
 
-\
 
-\
 
 \*
 
-\
 
 Ellos corrieron el último trecho. Sobre la pendiente, entre los arbustos
 de lilas, directo a los escalones del frente. Allí los Moomin se
@@ -4521,15 +4110,11 @@ felizmente. “Yo creo que la única cosa que voy a extrañar es un buen
 piso giratorio. Y creo que sería agradable tener felpa moteada esta
 vez!”
 
-\
 
-\
 
 \*
 
-\
 
-\
 
 En la noche, Moomintrol fue hacia el campamento de Snufkin para desearle
 buenas noches.
@@ -4550,17 +4135,12 @@ Bueno, hasta la vista entonces, me voy a la cama!”
 
 “Yip, yip!” replicó Snufkin.
 
-\
 
-\
 
-\
 
 \*
 
-\
 
-\
 
 Moomitroll retornó por el camino del marrón estanque detrás de la hamaca
 del árbol. Él miró hacia abajo dentro del agua. Sí, los brazaletes
@@ -4585,99 +4165,51 @@ Ella sostenía algo entre sus patas y sonreía.
 'El bote!” dijo Moomintroll, y se echó a reír. No porque algo fuera
 especialmente gracioso, sino solo porque él se sentía realmente feliz.
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
-\
 
